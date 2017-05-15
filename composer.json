@@ -1,7 +1,7 @@
 {
     "name": "econocargo/econocargo",
     "description": "My first package",
-    "type": "library",
+    "type": "MIT",
     "license": "proprietary",
     "authors": [
         {
