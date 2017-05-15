@@ -3,6 +3,7 @@
     "description": "My first package",
     "type": "library",
     "license": "MIT",
+    "minimum-stability":"stable",	
     "authors": [
         {
             "name": "David Olivero",
