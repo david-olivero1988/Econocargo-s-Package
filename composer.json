@@ -1,8 +1,8 @@
 {
     "name": "econocargo/econocargo",
     "description": "My first package",
-    "type": "MIT",
-    "license": "proprietary",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "David Olivero",
